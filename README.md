@@ -4,11 +4,7 @@ Sellers can upload product image along with information and setup an auction (du
 Potential buyers can find the advertisements and bid on them. Auction pages have live notification and synchronization features, meaning that once a bid is place by one user, other users who are on the same page will receive the updates without having to refresh the page. \
 Users also receive a notification once an auction starts/ends.
 
-### Links
-- <a href="https://live-auctions.netlify.app/"><strong>live website</strong></a>
-- <a href="https://youtu.be/8IAzQQJ47to"><strong>demo video</strong></a>
-  <br>
-  <br>
+
 
 # Description
 ## Feature highlights:
@@ -35,25 +31,23 @@ Database:
 - Mongodb
 
 Storage:
-- AWS S3 Bucket
+- Cloudinary
 
-Hosting:
-- Heroku (server)
-- Netlify (client)
+
 
 ## Screenshots:
 <p align="center">
   <a href="https://live-auctions.netlify.app/">
-    <img width="600" src="./screenshots/home.jpg">
+    <img width="600" src="./client/screenshots/home.jpg">
   </a>
 </p>
 <br>
 <p align="center">
   <a href="https://live-auctions.netlify.app/">
-    <img width="600" src="./screenshots/ad.jpg">
+    <img width="600" src="./client/screenshots/ad.jpg">
   </a>
 </p>
 
-# Notes on using the website
-Project is hosted <a href="https://live-auctions.netlify.app/"><strong>here</strong></a>
+<!-- # Notes on using the website
+Project is hosted <a href="https://live-auctions.netlify.app/"><strong>here</strong></a> -->
 - If you do not want to register, press the skip button during login. This will log you in as a test user (test@test.com).
